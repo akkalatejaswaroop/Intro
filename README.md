@@ -8,8 +8,8 @@ I’m a **Computer Science and Engineering undergrad** with a passion for **Arti
 - **Leadership**: Proven experience in **mentorship**, **team collaboration**, and community engagement, demonstrated through my role as a **Student Ambassador** for Let's Upgrade.
 
  🔧 My Projects
-- **Personal Portfolio Website**: A modern and fully responsive website designed using **HTML**, **CSS**, **JavaScript**, and styled with **Tailwind CSS**. [See it here!](#) *(Add link to your portfolio)*
-- **Password Generator Application**: A sleek, user-friendly password generator built using **HTML**, **CSS**, **JavaScript**, with an emphasis on intuitive design and security. [Explore it here!](#) *(Add link to your project)*
+- **Personal Portfolio Website**: A modern and fully responsive website designed using **HTML**, **CSS**, **JavaScript**, and styled with **Tailwind CSS**. [See it here!](https://akkalatejaswaroop.github.io/portifolio/)
+- **Password Generator Application**: A sleek, user-friendly password generator built using **HTML**, **CSS**, **JavaScript**, with an emphasis on intuitive design and security. [Explore it here!](https://akkalatejaswaroop.github.io/passwordgenerator/) 
 
 🌱 On the Learning Path
 I’m committed to enhancing my skills through **online certifications** in AI and ML, alongside academic coursework. My journey is fueled by an unyielding passion for technology and innovation.
